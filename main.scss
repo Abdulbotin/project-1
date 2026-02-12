@@ -1,0 +1,42 @@
+@mixin box  {
+  border: 1px solid gray;
+  width: 107px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  color: #2642F8;
+  
+}
+
+
+.q{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.w{
+   display: flex;
+  align-items: center;
+  gap: 0px;
+ 
+}
+.e{
+  margin-top: 5px;
+}
+.r{
+  @include box()
+}
+.t{
+  display: flex;
+  align-items: center;
+  width: 80%;
+  justify-content: space-between;
+  margin: auto;
+}
+.y{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
