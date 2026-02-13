@@ -141,4 +141,58 @@
 
 .n {
   width: 348px;
+}
+
+.qq {
+  display: flex;
+  align-items: center;
+  margin-left: 200px;
+  gap: 50px;
+  margin-top: 50px;
+}
+
+.ww {
+  background-color: #2642F8;
+  height: 440px;
+}
+
+.ee {
+  font-size: 40px;
+  font-weight: 900;
+  width: 762px;
+  padding-top: 100px;
+  padding-left: 400px;
+}
+
+.tt {
+  border: none;
+  padding: 10px 30px;
+  background-color: #FFFFFF;
+  border-radius: 32px;
+  margin-left: 700px;
+}
+
+.rr {
+  display: flex;
+  align-items: center;
+  color: white;
+  gap: 10px;
+}
+
+.yy {
+  display: flex;
+  align-items: center;
+  width: 60%;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.uu {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 50px;
 }/*# sourceMappingURL=main.css.map */
