@@ -37,4 +37,108 @@
   display: flex;
   align-items: center;
   gap: 20px;
+}
+
+.u {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.i {
+  font-size: 44px;
+  width: 600px;
+  font-weight: 900;
+  width: 417px;
+}
+
+.o {
+  width: 500px;
+  font-size: 18px;
+}
+
+.p {
+  display: flex;
+  align-items: center;
+  margin-left: 200px;
+  gap: 50px;
+  margin-top: 100px;
+}
+
+.a {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.s {
+  font-weight: 900;
+}
+
+.d {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.f {
+  color: #828282;
+}
+
+.g {
+  font-size: 18px;
+  font-weight: 900;
+  width: 340px;
+}
+
+.h {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.j {
+  border: none;
+  padding: 10px;
+}
+
+.k {
+  font-size: 16px;
+  width: 340px;
+}
+
+.l {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.z {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.x {
+  font-weight: 300;
+}
+
+.c {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+
+.v {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-left: 50px;
+}
+
+.b {
+  font-weight: 900;
+}
+
+.n {
+  width: 348px;
 }/*# sourceMappingURL=main.css.map */
