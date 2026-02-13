@@ -195,4 +195,17 @@
   justify-content: space-between;
   margin: auto;
   margin-top: 50px;
+}
+
+.ii {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  justify-content: space-between;
+  margin: auto;
+}
+
+.oo {
+  display: flex;
+  gap: 50px;
 }/*# sourceMappingURL=main.css.map */
